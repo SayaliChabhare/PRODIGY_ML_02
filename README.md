@@ -1,1 +1,3 @@
 # PRODIGY_ML_02
+This project is part of the Prodigy InfoTech internship and focuses on Mall Customer Segmentation using K-means clustering. The dataset used is from Kaggle and contains customer details such as gender, age, annual income, and spending score. The goal of this analysis is to group similar customers together based on their purchasing behavior, helping businesses understand their customer base and improve marketing strategies. Using the K-means algorithm, we identify different clusters of customers, which can then be targeted with personalized offers or services to enhance customer satisfaction and business performance.
+
